@@ -1,4 +1,4 @@
-FROM resin/raspberrypi3-debian
+FROM resin/raspberry-pi-debian
 
 ENV QEMU_EXECVE 1
 
